@@ -2,7 +2,7 @@
 ########################################################################################
 
             #Customize with your own working directory
-setwd("C:/Users/diego/Documents/R/Projects/GitHub_Projects/Apartment For Rent project")
+setwd("C:/Users/diego/Documents/R/Projects/GitHub_Projects/Apartments-for-rent-classified-in-the-USA-main")
 
 dir.create("Files")
 
